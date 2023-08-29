@@ -1,7 +1,7 @@
-c2fc9ca9f445a82da242bbc02378d015 *DESCRIPTION
+aa468773292de1f0f38f4f0e9c1aec1e *DESCRIPTION
 a6bdcc4a278d030e6362ba4aff5e28d7 *LICENSE
 a0b274b854e377e0ba9fa6e63caf931c *NAMESPACE
-99b1c3fa0f88d2b0eb526463b02fa2c6 *NEWS.md
+4a860e7070085a7e059b07700f48bb15 *NEWS.md
 b6057ef6fc63a6b12823837c94c2b278 *R/download_archive.R
 46388955df11987ac5ba10761a35481c *R/filter_by_keyword.R
 245c6744005e24b74efd8168949363d7 *R/ftp_archive.R
@@ -10,10 +10,10 @@ b6057ef6fc63a6b12823837c94c2b278 *R/download_archive.R
 faf0ba28508e089f27fc907f92691658 *R/import_hgnc_dataset.R
 2956c06b549d7f377650b17c8c03cd96 *R/last_update.R
 5b508786859555ff1551d6eea7f03e0b *R/latest_archive.R
-bd732d689a57bd03619d87e4540ca026 *R/list_archives.R
+be9d5ebc67e450655e85292a7516602c *R/list_archives.R
 0d1ced7a5d2842bdf9745f9e6b208d80 *R/str_detect2.R
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
-4e9aaf447aa38085bde0b1f5eb395d2a *README.md
+6f30b7c0d20509e0a7633db496ac7c94 *README.md
 1c3dc8a828aac833019a15d4425c9399 *inst/WORDLIST
 388c3c1db04c86557a1d5bfd08c3664f *man/download_archive.Rd
 cbd2d98c8195cd4d22d46f9cb245c826 *man/figures/README-pressure-1.png
