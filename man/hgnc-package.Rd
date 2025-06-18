@@ -4,16 +4,16 @@
 \name{hgnc-package}
 \alias{hgnc}
 \alias{hgnc-package}
-\title{hgnc: Download and Import the HUGO Gene Nomenclature Committee ('HGNC') Data Set into R}
+\title{hgnc: Import Human Gene Nomenclature}
 \description{
-A set of routines to quickly download and import the 'HGNC' data set on mapping of gene symbols to gene entries in other popular databases or resources.
+A set of routines to quickly download and import the HUGO Gene Nomenclature Committee (HGNC) data set on mapping of gene symbols to gene entries in other genomic databases or resources.
 }
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/ramiromagno/hgnc}
-  \item \url{https://rmagno.eu/hgnc/}
-  \item Report bugs at \url{https://github.com/ramiromagno/hgnc/issues}
+  \item \url{https://github.com/patterninstitute/hgnc}
+  \item \url{https://www.pattern.institute/hgnc/}
+  \item Report bugs at \url{https://github.com/patterninstitute/hgnc/issues}
 }
 
 }
@@ -22,13 +22,14 @@ Useful links:
 
 Authors:
 \itemize{
-  \item Ana-Teresa Maia \email{maia.anateresa@gmail.com} (\href{https://orcid.org/0000-0002-0454-9207}{ORCID})
+  \item Isabel Duarte \email{iduarte@pattern.institute} (\href{https://orcid.org/0000-0003-0060-2936}{ORCID})
+  \item Jacob Munro \email{jacob.e.munro@gmail.com} (\href{https://orcid.org/0000-0002-2751-0989}{ORCID})
 }
 
 Other contributors:
 \itemize{
-  \item CINTESIS [copyright holder, funder]
-  \item Pattern Institute [copyright holder, funder]
+  \item Ana-Teresa Maia \email{maia.anateresa@gmail.com} (\href{https://orcid.org/0000-0002-0454-9207}{ORCID}) [contributor]
+  \item Pattern Institute (04jrgd746) [copyright holder, funder]
 }
 
 }
